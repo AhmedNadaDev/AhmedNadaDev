@@ -1,278 +1,247 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=200&section=header&text=Ahmed%20Nada&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%80%94%20MERN%20Stack&descAlignY=58&descSize=20&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2d1a,100:1a4731&height=210&section=header&text=Ahmed%20Nada&fontSize=72&fontColor=39d353&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%80%94%20MERN%20Stack&descAlignY=58&descSize=20&descColor=7ee787" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB;Clean+Code+%C2%B7+High+Performance+%C2%B7+Modern+UI;Available+for+Freelance+%26+Full-Time+Roles+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=39D353&background=0D111700&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+Full+Stack+Web+Developer;Building+Scalable+%26+Modern+Web+Apps+%F0%9F%9A%80;MERN+%7C+React+%7C+Node.js+%7C+MongoDB+%7C+MySQL;Framer+Motion+%7C+GSAP+%7C+Tailwind+CSS;Clean+Code+%C2%B7+High+Performance+%C2%B7+Open+to+Work+%E2%9C%85)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://github.com/ahmednada">
-  <img src="https://img.shields.io/badge/GitHub-%40ahmednada-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=6d28d9" />
-</a>
-<a href="https://linkedin.com/in/ahmednada">
-  <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Nada-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-</a>
-<a href="https://ahmednada.dev">
-  <img src="https://img.shields.io/badge/Portfolio-ahmednada.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6d28d9" />
-</a>
-<a href="mailto:contact@ahmednada.dev">
-  <img src="https://img.shields.io/badge/Email-contact%40ahmednada.dev-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=dc2626" />
-</a>
+[![GitHub](https://img.shields.io/badge/%40ahmednada-0d1117?style=for-the-badge&logo=github&logoColor=39d353&labelColor=0d1117&color=0d1117)](https://github.com/ahmednada)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353&labelColor=0d1117&color=0d1117)](https://linkedin.com/in/ahmednada)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353&labelColor=0d1117&color=0d1117)](https://ahmednada.dev)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353&labelColor=0d1117&color=0d1117)](mailto:contact@ahmednada.dev)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahmednada&style=for-the-badge&color=238636&label=PROFILE+VIEWS&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0d1117?style=for-the-badge&logo=statuspage&logoColor=39d353&labelColor=0d1117&color=238636)
+![Experience](https://img.shields.io/badge/EXP-2%2B%20YEARS-0d1117?style=for-the-badge&logo=dev.to&logoColor=39d353&labelColor=0d1117&color=238636)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `▍` About Me
+
+```bash
+┌──[ahmed@nada]─[~]
+└─$ cat about.txt
+```
+
+```yaml
+name        : "Ahmed Nada"
+role        : "Full Stack Web Developer — MERN Stack"
+experience  : "2+ years in production-grade web development"
+location    : "Remote · Available Worldwide"
+status      : "Open to Freelance & Full-Time Opportunities"
+
+mission: >
+  Results-driven developer building fast, modern, and scalable
+  web applications. I craft responsive mobile-first interfaces
+  with React, Tailwind CSS, and JavaScript — powered by robust
+  Node.js + Express backends connected to MongoDB and MySQL.
+
+  I bring interfaces to life using Framer Motion and GSAP,
+  adding smooth, meaningful animations that enhance UX without
+  sacrificing performance.
+
+expertise:
+  - Scalable MERN Stack Applications
+  - RESTful API Architecture & Design
+  - Authentication & Authorization Systems
+  - E-Commerce & SaaS Platform Development
+  - UI Animation Engineering (Framer / GSAP)
+  - Mobile-First Responsive Design
+
+open_source : true
+hire_me     : true
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `▍` Tech Stack
+
+<div align="center">
+
+### ◈ Frontend Engineering
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=39d353&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39d353&labelColor=0d1117)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=39d353&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=39d353&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=39d353&labelColor=0d1117)
+
+### ◈ Backend Engineering
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=39d353&labelColor=0d1117)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=39d353&labelColor=0d1117)
+![REST API](https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=fastapi&logoColor=39d353&labelColor=0d1117)
+![JWT](https://img.shields.io/badge/JWT_Auth-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=39d353&labelColor=0d1117)
+
+### ◈ Database Systems
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=39d353&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=39d353&labelColor=0d1117)
+![Mongoose](https://img.shields.io/badge/Mongoose-0d1117?style=for-the-badge&logo=mongoose&logoColor=39d353&labelColor=0d1117)
+
+### ◈ Animations & Motion
+
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d1117?style=for-the-badge&logo=framer&logoColor=39d353&labelColor=0d1117)
+![GSAP](https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=39d353&labelColor=0d1117)
+
+### ◈ Developer Tools
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39d353&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39d353&labelColor=0d1117)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=39d353&labelColor=0d1117)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=39d353&labelColor=0d1117)
+![NPM](https://img.shields.io/badge/NPM-0d1117?style=for-the-badge&logo=npm&logoColor=39d353&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `▍` Core Expertise
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                        CORE COMPETENCIES                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  ⬡  Scalable Applications    Full-stack MERN apps built to      ║
+║                               handle growth & real-world load    ║
+║                                                                  ║
+║  ⬡  Clean Architecture       Modular, maintainable codebase     ║
+║                               with separation of concerns        ║
+║                                                                  ║
+║  ⬡  API Design               RESTful APIs with clean contracts   ║
+║                               versioning & full documentation    ║
+║                                                                  ║
+║  ⬡  Auth Systems             JWT, sessions, OAuth, RBAC —       ║
+║                               secure from the ground up          ║
+║                                                                  ║
+║  ⬡  Performance              Lazy loading, caching, query        ║
+║                               optimization & Core Web Vitals     ║
+║                                                                  ║
+║  ⬡  Modern UI Systems        Tailwind + Framer/GSAP animations   ║
+║                               for premium user experiences       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `▍` What I Build
+
+<div align="center">
+
+| ⬡ | Service | Description |
+|:---:|:---|:---|
+| 🌐 | **Business Websites** | Fast, SEO-ready, conversion-optimized landing pages |
+| ☁️ | **SaaS Platforms** | Multi-user apps with auth, subscriptions & dashboards |
+| 📊 | **Admin Dashboards** | Real-time panels with charts, roles & CRUD operations |
+| 🛒 | **E-Commerce Systems** | Cart, checkout, payment integration & inventory management |
+| ⚙️ | **Full Stack Web Apps** | End-to-end MERN applications from design to deployment |
+| 🎬 | **Animated Interfaces** | Smooth GSAP / Framer Motion powered interactive UIs |
+| 🔍 | **SEO Optimization** | Crawlable, indexable, performant applications |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `▍` GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmednada&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=7ee787&ring_color=238636&border_color=21262d" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednada&hide_border=true&background=0d1117&ring=238636&fire=39d353&currStreakLabel=39d353&currStreakNum=7ee787&sideLabels=7ee787&sideNums=39d353&dates=484f58&stroke=21262d" />
+
+<br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednada&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=7ee787&langs_count=8&border_color=21262d" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmednada&bg_color=0d1117&color=39d353&line=238636&point=39d353&area=true&area_color=0f2d1a&hide_border=true" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `▍` GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ahmednada&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `▍` Developer Philosophy
+
+```bash
+┌──[ahmed@nada]─[~/mindset]
+└─$ cat philosophy.json
+```
+
+```json
+{
+  "clean_code"         : "Every line should be readable by a teammate at 2am.",
+  "scalability_first"  : "Design for 10x growth before you need it.",
+  "security_mindset"   : "Validate everything. Trust nothing. Protect always.",
+  "user_first_thinking": "If the user struggles, the engineer failed.",
+  "continuous_growth"  : "The best version of my code is always the next one.",
+  "communication"      : "Transparent timelines. No surprises. Ship with clarity."
+}
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `▍` Contact
+
+<div align="center">
+
+```bash
+$ echo "Let's build something remarkable together."
+```
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=39d353&labelColor=0d1117&color=238636)](https://github.com/ahmednada)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353&labelColor=0d1117&color=238636)](https://linkedin.com/in/ahmednada)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353&labelColor=0d1117&color=238636)](https://ahmednada.dev)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353&labelColor=0d1117&color=238636)](mailto:contact@ahmednada.dev)
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ahmednada&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-0d1117?style=for-the-badge&logo=circle&logoColor=22c55e&labelColor=0d1117&color=22c55e" />
-&nbsp;
-<img src="https://img.shields.io/badge/Experience-2%2B%20Years-0d1117?style=for-the-badge&logo=code&logoColor=a78bfa&labelColor=0d1117&color=6d28d9" />
-
-</div>
-
-<br/>
-
----
-
-## `$ whoami`
-
-```ts
-const developer = {
-  name        : "Ahmed Nada",
-  title       : "Full Stack Web Developer — MERN Stack",
-  experience  : "2+ years building production-grade web applications",
-  location    : "🌍 Remote · Worldwide",
-
-  identity: {
-    builder   : "I build fast, modern, and scalable web applications.",
-    specialist: "Responsive UIs, robust APIs, and meaningful animations.",
-    mission   : "Deliver clean, secure, and high-performance solutions",
-  },
-
-  stack: {
-    frontend  : ["React", "JavaScript (ES6+)", "Tailwind CSS"],
-    backend   : ["Node.js", "Express.js"],
-    database  : ["MongoDB", "MySQL"],
-    animation : ["Framer Motion", "GSAP"],
-    tools     : ["Git", "GitHub", "Postman", "VS Code"],
-  },
-
-  currentFocus: "Building scalable SaaS platforms & eCommerce systems",
-  openToWork  : true,
-};
 ```
-
-<br/>
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-### 🎨 Frontend Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### ⚙️ Backend Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=fastapi&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/JWT_Auth-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=FB015B" />
-</p>
-
-### 🗄️ Database Systems
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Mongoose-0d1117?style=for-the-badge&logo=mongoose&logoColor=880000" />
-</p>
-
-### ✨ Animations & UI Experience
-
-<p>
-  <img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=for-the-badge&logo=framer&logoColor=0055FF" />
-  <img src="https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=88CE02" />
-</p>
-
-### 🔧 Developer Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/NPM-0d1117?style=for-the-badge&logo=npm&logoColor=CB3837" />
-</p>
-
-</div>
-
-<br/>
-
----
-
-## 🧩 Core Expertise
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="220">
-      <b>🏗️ Scalable Architecture</b><br/>
-      <sub>Structuring apps built to grow without technical debt</sub>
-    </td>
-    <td align="center" width="220">
-      <b>🔌 API Design</b><br/>
-      <sub>RESTful APIs with clean contracts and full documentation</sub>
-    </td>
-    <td align="center" width="220">
-      <b>🔐 Auth Systems</b><br/>
-      <sub>JWT, session handling, role-based access control</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="220">
-      <b>⚡ Performance Optimization</b><br/>
-      <sub>Fast load times, lazy loading, optimized queries</sub>
-    </td>
-    <td align="center" width="220">
-      <b>🎨 Modern UI Systems</b><br/>
-      <sub>Tailwind-powered, motion-enhanced, pixel-perfect UIs</sub>
-    </td>
-    <td align="center" width="220">
-      <b>📱 Mobile-First Design</b><br/>
-      <sub>Responsive layouts across all breakpoints and devices</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-## 🚀 What I Build
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                      SERVICES & DELIVERABLES                    │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│   🌐  Business Websites      → Fast, SEO-ready, conversion-     │
-│                                 optimized landing pages          │
-│                                                                  │
-│   ☁️  SaaS Platforms         → Multi-user apps with auth,       │
-│                                 subscriptions & dashboards       │
-│                                                                  │
-│   📊  Admin Dashboards       → Real-time data panels with       │
-│                                 charts, roles & CRUD             │
-│                                                                  │
-│   🛒  E-commerce Systems     → Full cart, checkout, payment     │
-│                                 & inventory management           │
-│                                                                  │
-│   ⚙️  Full Stack Web Apps    → End-to-end MERN applications     │
-│                                 from design to deployment        │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
+> "First, solve the problem. Then, write the code." — John Johnson
 ```
 
 </div>
 
 <br/>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmednada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=6d28d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednada&theme=tokyonight&hide_border=true&background=0d1117&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=a78bfa&dates=6b7280" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmednada&bg_color=0d1117&color=a78bfa&line=6d28d9&point=a78bfa&area=true&area_color=6d28d9&hide_border=true" />
-
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ahmednada&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-</div>
-
-<br/>
-
----
-
-## 💭 Developer Mindset
-
-<div align="center">
-
-| Principle | Practice |
-|:---|:---|
-| 🧹 **Clean Code** | Readable, maintainable, well-structured — every single time |
-| 📐 **Scalability First** | Architect for tomorrow, not just for today's requirements |
-| 🔒 **Security Awareness** | Validate inputs, protect routes, handle auth with care |
-| 👤 **User-Focused** | Every UI decision is made with real users in mind |
-| 📈 **Continuous Growth** | Always learning, always improving, always shipping better |
-| 🤝 **Clear Communication** | Transparent progress, honest timelines, no surprises |
-
-</div>
-
-<br/>
-
----
-
-## 📬 Contact Hub
-
-<div align="center">
-
-### Let's build something great together.
-
-<br/>
-
-<a href="https://github.com/ahmednada">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=6d28d9" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ahmednada">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-</a>
-&nbsp;&nbsp;
-<a href="https://ahmednada.dev">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6d28d9" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:contact@ahmednada.dev">
-  <img src="https://img.shields.io/badge/Email-Hire%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=dc2626" />
-</a>
-
-<br/><br/>
-
-> *"Make it work. Make it right. Make it fast."* — Kent Beck
-
-<br/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4731,50:0f2d1a,100:0d1117&height=120&section=footer" width="100%" />
