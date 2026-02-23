@@ -161,7 +161,7 @@ hire_me     : true
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `▍` GitHub Analytics
 
@@ -188,9 +188,9 @@ hire_me     : true
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ahmednada&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -216,29 +216,19 @@ hire_me     : true
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `▍` Contact
-
-<div align="center">
-
-```bash
-$ echo "Let's build something remarkable together."
-```
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=39d353&labelColor=0d1117&color=238636)](https://github.com/ahmednada)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=39d353&labelColor=0d1117&color=238636)](https://github.com/AhmedNadaDev/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353&labelColor=0d1117&color=238636)](https://linkedin.com/in/ahmednada)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353&labelColor=0d1117&color=238636)](www.linkedin.com/in/ahmed-nada-05a536316)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353&labelColor=0d1117&color=238636)](https://ahmednada.dev)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353&labelColor=0d1117&color=238636)](https://ahmednada.dev) -->
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353&labelColor=0d1117&color=238636)](mailto:contact@ahmednada.dev)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353&labelColor=0d1117&color=238636)](mailto:ahmednadaahmed79@gmail.com)
 
 <br/><br/>
 
-```
-> "First, solve the problem. Then, write the code." — John Johnson
-```
 
 </div>
 
