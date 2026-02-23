@@ -1,178 +1,136 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahmed+Nada+%F0%9F%91%8B;Full+Stack+Web+Developer;MERN+Stack+Specialist;Building+the+Web%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header&text=Ahmed%20Nada&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-<p>
-  <a href="https://github.com/ahmednada">
-    <img src="https://img.shields.io/badge/GitHub-ahmednada-6E40C9?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ahmednada">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Nada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahmednada@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ahmednada&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" />
-</p>
-
-</div>
-
----
-
-## 🧠 About Me
-
-```typescript
-const Ahmed = {
-  role:       "Full Stack Web Developer (MERN Stack)",
-  experience: "2+ years",
-  location:   "🌍 Available Worldwide · Remote Friendly",
-
-  focus: [
-    "Scalable Web Applications",
-    "Responsive & Mobile-First UI",
-    "High-Performance REST APIs",
-    "Smooth UI Animations & Interactions",
-  ],
-
-  stack: {
-    frontend:   ["React", "JavaScript", "Tailwind CSS"],
-    backend:    ["Node.js", "Express"],
-    database:   ["MongoDB", "MySQL"],
-    animation:  ["Framer Motion", "GSAP"],
-    tools:      ["Git", "GitHub"],
-  },
-
-  currentlyBuilding: "Fast · Modern · Scalable web experiences",
-  openToWork:        true,
-};
 ```
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ahmed+Nada;Full+Stack+Web+Developer;Building+Scalable+Web+Apps+with+MERN" alt="Typing SVG" />
+  <h1>Ahmed Nada</h1>
+  <p><strong>Full Stack Web Developer | MERN Stack Specialist | 2+ Years of Experience</strong></p>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-0A84FF?style=for-the-badge&logo=code&logoColor=white" alt="Available for Projects" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-0A84FF?style=flat-square" alt="Experience" />
+</div>
+
+Hi there! I’m Ahmed Nada, a results-driven Full-Stack Web Developer with 2+ years of experience building fast, modern, and scalable web applications.  
+I specialize in creating responsive, mobile-first interfaces using React, JavaScript, and Tailwind CSS, backed by robust server-side solutions built with Node.js, Express, MongoDB, and MySQL.  
+I also bring interfaces to life using Framer Motion and GSAP, adding smooth, meaningful animations that enhance user experience without sacrificing performance.  
+Whether you need a business website, a dynamic web app, or a full e-commerce solution, I deliver clean, secure, and high-performance solutions tailored to your goals.
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+#### Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
+#### Backend
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />  
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 
-### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+#### Database
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
-### ✨ Animations
-<p>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-</p>
+#### Animations
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />  
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
 
-### 🔧 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+#### Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 </div>
 
 ---
 
-## 🚀 Core Competencies
+### 🌟 Professional Skills Highlights
 
 <div align="center">
-
-| 💡 Skill | 📊 Level |
-|---|---|
-| Full Stack Development (MERN) | ████████████████░░░░ Advanced |
-| RESTful API Design | ███████████████████░ Expert |
-| Responsive / Mobile-First UI | ████████████████████ Expert |
-| Authentication & Authorization | ████████████████░░░░ Advanced |
-| UI/UX Focused Development | ███████████████████░ Expert |
-| Animations (Framer / GSAP) | ████████████████░░░░ Advanced |
-| Performance Optimization | ███████████████░░░░░ Proficient |
-| Database Architecture | ████████████████░░░░ Advanced |
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Full_Stack_Development-0A84FF?style=flat-square&logo=code&logoColor=white" alt="Full Stack Development" /><br>
+        Building end-to-end web solutions
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Scalable_Web_Apps-0A84FF?style=flat-square&logo=rocket&logoColor=white" alt="Scalable Web Apps" /><br>
+        Designing for growth and performance
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/REST_APIs-0A84FF?style=flat-square&logo=api&logoColor=white" alt="REST APIs" /><br>
+        Secure and efficient API development
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Authentication_Systems-0A84FF?style=flat-square&logo=lock&logoColor=white" alt="Authentication Systems" /><br>
+        JWT, OAuth, and secure auth flows
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/UI%2FUX_Focused-0A84FF?style=flat-square&logo=figma&logoColor=white" alt="UI/UX Focused" /><br>
+        User-centric design principles
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Performance_Optimization-0A84FF?style=flat-square&logo=speedtest&logoColor=white" alt="Performance Optimization" /><br>
+        Code splitting, lazy loading, and more
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 💼 What I Offer
+### 💼 What I Offer
 
+- ✅ **Custom Web Development**: Tailored solutions from concept to deployment.
+- ✅ **Frontend Development**: Responsive, interactive UIs with modern frameworks.
+- ✅ **Backend Development**: Robust servers and APIs for seamless data flow.
+- ✅ **Database Architecture**: Efficient, scalable data storage and management.
+- ✅ **E-Commerce Development**: Full-featured online stores with secure payments.
+- ✅ **Animations & Interactions**: Engaging user experiences with smooth animations.
+- ✅ **SEO Optimization**: Best practices for search engine visibility.
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmednada&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednada&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednada&theme=transparent&hide_border=true&background=00000000" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmednada&theme=transparent" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ahmednada&theme=minimal" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Developer-Professional%20Full%20Stack-0A84FF?style=for-the-badge&logo=code&logoColor=white" alt="Professional Developer" />
+  <img src="https://img.shields.io/badge/Projects-Production%20Ready-0A84FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Production Ready" />
+</div>
+
+---
+
+### 📫 Get in Touch
+
+<div align="center">
+  <a href="https://github.com/ahmednada"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/ahmednada"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ahmednada@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmednada&style=flat-square&color=0A84FF" alt="Profile Views" />
+</div>
 ```
-✅  Custom Web Development       — Tailored solutions from scratch
-✅  Frontend Development         — Pixel-perfect, responsive UIs
-✅  Backend Development          — Robust APIs & server logic
-✅  Database Architecture        — MongoDB & MySQL design
-✅  E-Commerce Development       — Full-featured online stores
-✅  Animations & Interactions    — Framer Motion & GSAP magic
-✅  SEO Optimization             — Fast, crawlable, indexable apps
-```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmednada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6E40C9&icon_color=6E40C9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednada&theme=tokyonight&hide_border=true&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednada&layout=compact&theme=tokyonight&hide_border=true&title_color=6E40C9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmednada&theme=tokyo-night&hide_border=true&color=6E40C9&line=6E40C9&point=ffffff" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmednada&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/ahmednada">
-  <img src="https://img.shields.io/badge/GitHub-%40ahmednada-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/ahmednada">
-  <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Nada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:ahmednada@email.com">
-  <img src="https://img.shields.io/badge/Email-ahmednada%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" width="100%"/>
